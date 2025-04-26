@@ -127,3 +127,8 @@ world know that you use Haystack!
 -   [PostHog](https://github.com/PostHog/max-ai#readme)
 -   [Rakuten](https://www.rakuten.com/)
 -   [Sooth.ai](https://www.deepset.ai/blog/advanced-neural-search-with-sooth-ai)
+-   
+## Summary
+Haystack is an open-source framework designed to build powerful, production-ready applications that leverage Large Language Models (LLMs) and retrieval systems.
+It allows developers to create intelligent search engines, question-answering systems, RAG (Retrieval-Augmented Generation) pipelines, and conversational AI agents with ease.
+Haystack supports integration with various models and databases, making it a flexible and scalable choice for modern AI applications.
