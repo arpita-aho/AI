@@ -1,5 +1,7 @@
 # Build Powerful AI Applications
 
+Building Haystack
+
 
 ## Summary
 Haystack is an open-source framework by deepset for developing production-ready LLM applications.  
