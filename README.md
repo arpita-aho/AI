@@ -1,5 +1,7 @@
 # Build Powerful AI Applications
 
+
+## Summary
 Haystack is an open-source framework by deepset for developing production-ready LLM applications.  
 It enables developers to implement search systems, question-answering, RAG pipelines, and conversational agents efficiently.
 
@@ -38,7 +40,7 @@ pip install git+https://github.com/deepset-ai/haystack.git@main
 Haystack supports multiple installation methods including Docker images. For a comprehensive guide please refer
 to the [documentation](https://docs.haystack.deepset.ai/docs/installation).
 
-## Documentation
+## How is it used ?
 
 If you're new to the project, check out ["What is Haystack?"](https://haystack.deepset.ai/overview/intro) then go
 through the ["Get Started Guide"](https://haystack.deepset.ai/overview/quick-start) and build your first LLM application
@@ -128,7 +130,4 @@ world know that you use Haystack!
 -   [Rakuten](https://www.rakuten.com/)
 -   [Sooth.ai](https://www.deepset.ai/blog/advanced-neural-search-with-sooth-ai)
 -   
-## Summary
-Haystack is an open-source framework designed to build powerful, production-ready applications that leverage Large Language Models (LLMs) and retrieval systems.
-It allows developers to create intelligent search engines, question-answering systems, RAG (Retrieval-Augmented Generation) pipelines, and conversational AI agents with ease.
-Haystack supports integration with various models and databases, making it a flexible and scalable choice for modern AI applications.
+
