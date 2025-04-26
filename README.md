@@ -1,4 +1,4 @@
-# Title of My Project: Build Powerful AI Applications
+# Build Powerful AI Applications
 
 Haystack is an open-source framework by deepset for developing production-ready LLM applications.  
 It enables developers to implement search systems, question-answering, RAG pipelines, and conversational agents efficiently.
